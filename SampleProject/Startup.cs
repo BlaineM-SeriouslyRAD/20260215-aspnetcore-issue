@@ -4,7 +4,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using System;
 
-namespace HostingModel
+namespace SampleProject
 {
     public class Startup
     {
